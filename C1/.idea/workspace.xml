@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7b638e0-3e8a-4123-9ab2-6279e9f94d22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fQrS0Y1ev4ukDivs54tvO6kySi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Embed">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Circle" />
+      <module name="ConformalMaps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Embed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Embed" />
+      <module name="ConformalMaps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometricObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeometricObject" />
+      <module name="ConformalMaps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RicciFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RicciFlow" />
+      <module name="ConformalMaps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Embed" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.RicciFlow" />
+        <item itemvalue="Application.GeometricObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b638e0-3e8a-4123-9ab2-6279e9f94d22" name="Default Changelist" comment="" />
+      <created>1596161153131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596161153131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="841" y="251" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597601765538">
+      <screen x="0" y="0" width="1440" height="862" />
+    </state>
+    <state x="841" y="251" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.862@0.0.1440.862" timestamp="1597601765538" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1597603336557">
+      <screen x="0" y="0" width="1440" height="862" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.0.1440.862@0.0.1440.862" timestamp="1597603336557" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.863@0.0.1440.863" timestamp="1596308635779" />
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597545264531" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1597603336545">
+      <screen x="0" y="0" width="1440" height="862" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.0.1440.862@0.0.1440.862" timestamp="1597603336545" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.863@0.0.1440.863" timestamp="1596308635776" />
+    <state width="1398" height="247" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597545264530" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1597603336514">
+      <screen x="0" y="0" width="1440" height="862" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.0.1440.862@0.0.1440.862" timestamp="1597603336514" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.863@0.0.1440.863" timestamp="1596308635775" />
+    <state width="1398" height="247" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597545264529" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1597603336547">
+      <screen x="0" y="0" width="1440" height="862" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.0.1440.862@0.0.1440.862" timestamp="1597603336547" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.863@0.0.1440.863" timestamp="1596308635778" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597545264531" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1596162919466">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596162919466" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1597600070714">
+      <screen x="0" y="0" width="1440" height="862" />
+    </state>
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.862@0.0.1440.862" timestamp="1597600070714" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1596425940236" />
+  </component>
+</project>
