@@ -10,17 +10,18 @@ public class Circle {
     }
 
     /**
-     * Finds the intersection points of two 2D circles.
+     * Finds the intersection points of two 2D circles based on a given metric.
      * @param c0 the first circle
      * @param c1 the second circle
+     * @param metric the metric
      * @return the intersection points
      */
-    public static Vertex[] intersections(Circle c0, Circle c1)
+    public static Vertex[] intersections(Circle c0, Circle c1, double[] metric)
     {
         Vertex[] ans = new Vertex[2];
         Vertex p0 = c0.center, p1 = c1.center;
         double r0 = c0.radius, r1 = c1.radius;
-        double d = Vertex.distance(p0, p1);
+        double d = Math.exp(metric[p0.index]) + Math.exp(metric[p1.index]);
         double a = (r0*r0 - r1*r1 + d*d) / (2 * d);
         double h = Math.sqrt(r0*r0 - a*a);
         double[] vector01 = Vertex.subtract(p1, p0);
@@ -39,10 +40,10 @@ public class Circle {
 
     public static void main(String[] args)
     {
-        Circle c0 = new Circle(new Vertex(-1,0,0,0),3);
-        Circle c1 = new Circle(new Vertex(-1,4,0,0),0.5);
-        Vertex[] intersections = Circle.intersections(c1,c0);
-        for (Vertex v : intersections)
-            System.out.println(v.x + " " + v.y + " " + v.z);
+//        Circle c0 = new Circle(new Vertex(-1,0,0,0),3);
+//        Circle c1 = new Circle(new Vertex(-1,4,0,0),0.5);
+//        Vertex[] intersections = Circle.intersections(c1,c0);
+//        for (Vertex v : intersections)
+//            System.out.println(v.x + " " + v.y + " " + v.z);
     }
 }

@@ -72,7 +72,7 @@ public class Embed {
         double l23 = Math.exp(r.metric[known2.index]) + Math.exp(r.metric[unknown3.index]);
         Circle c1 = new Circle(known1, l13);
         Circle c2 = new Circle(known2, l23);
-        Vertex[] intersections = Circle.intersections(c1,c2);
+        Vertex[] intersections = Circle.intersections(c1,c2, r.metric);
         Triangle t1 = new Triangle(-1, known1, known2, intersections[0]);
         boolean parentClockwise = parent.isClockwise();
         Vertex newPoint;
