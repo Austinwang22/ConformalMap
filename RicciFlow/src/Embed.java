@@ -100,7 +100,7 @@ public class Embed {
     {
         TriangleMesh m = new TriangleMesh("kittenopen.off");
         RicciFlow r = new RicciFlow(m);
-        r.readMetric("kittenopenu.in");
+        r.readMetric("kittenopenu");
         Embed e = new Embed(m, r);
         e.bfs();
         e.writeFile("kittenEmbedded.off");
