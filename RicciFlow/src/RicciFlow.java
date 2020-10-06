@@ -1,6 +1,4 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.StringTokenizer;
 
 public class RicciFlow {
@@ -39,15 +37,22 @@ public class RicciFlow {
         System.out.println("Finished reading metric");
     }
 
+    public void writeFile(String fileName, double dT, int numIter) throws IOException
+    {
+        PrintWriter pw = new PrintWriter(new FileWriter(fileName));
+        pw.println(mesh.V);
+        updateMetric(dT, numIter);
+        for (double d : metric)
+            pw.println(d);
+        pw.close();
+    }
+
     public static void main(String[] args) throws IOException
     {
         TriangleMesh m = new TriangleMesh("kitten.off");
         RicciFlow r = new RicciFlow(m);
         System.out.println("Starting Ricci Flow");
-        r.updateMetric(0.33, 15000);
+        r.writeFile("kittenu",0.33, 15000);
         System.out.println("Completed Ricci Flow");
-        double[] K = r.mesh.computeCurvature(r.metric);
-        for (double d : r.metric)
-            System.out.println(d);
     }
 }

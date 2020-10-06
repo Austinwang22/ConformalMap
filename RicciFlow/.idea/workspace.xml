@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4514da32-3fc9-4e8f-a8eb-8545f45dd6af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kittenopenu.in" beforeDir="false" afterPath="$PROJECT_DIR$/kittenopenu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RicciFlow/Embed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RicciFlow/Embed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RicciFlow/RicciFlow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RicciFlow/RicciFlow.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Embed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Embed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RicciFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RicciFlow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -41,7 +44,7 @@
       <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Embed">
+  <component name="RunManager" selected="Application.RicciFlow">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Circle" />
       <module name="RicciFlow" />
@@ -65,9 +68,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RicciFlow" />
         <item itemvalue="Application.Embed" />
         <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.RicciFlow" />
       </list>
     </recent_temporary>
   </component>
@@ -97,30 +100,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601872137742">
+    <state x="438" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602009559887">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="438" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1601872137742" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601959895531">
+    <state x="438" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1602009559887" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1602009397563">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.863@0.0.1440.863" timestamp="1601922235508" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601959895531" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601959895529">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602009397563" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1602009397561">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.863@0.0.1440.863" timestamp="1601922235506" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601959895529" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601959895528">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602009397561" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1602009397561">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.863@0.0.1440.863" timestamp="1601922235505" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601959895528" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601959895530">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602009397561" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1602009397562">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.863@0.0.1440.863" timestamp="1601922235507" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601959895530" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602009397562" />
     <state x="410" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1601961916453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
